@@ -1,0 +1,29 @@
+{
+  "name": "grav-plugin-webpack-plus",
+  "version": "1.0.0",
+  "description": "Complete integration of webpackencore in grav project",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souricevincent/grav-plugin-webpack-plus.git"
+  },
+  "keywords": [
+    "grav",
+    "webpack",
+    "webpackencore",
+    "encore",
+    "plugin"
+  ],
+  "author": "vincent sourice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souricevincent/grav-plugin-webpack-plus/issues"
+  },
+  "homepage": "https://github.com/souricevincent/grav-plugin-webpack-plus#readme"
+}
